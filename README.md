@@ -10,4 +10,14 @@ AlgoSort is a web app for visualizing a bunch of different sorting algorithms Li
 
 ## Demo GIF
 
-![App GIF](demo.gif)
+![App GIF](demo.gif)<br/>
+
+## Installation
+
+Cloning the repository:
+
+```bash
+$ git clone https://github.com/r-bhanu/AlgoSort.git
+$ cd AlgoSort
+```
+start the application on http://localhost:3000/
